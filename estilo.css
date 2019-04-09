@@ -1,0 +1,23 @@
+body{
+		margin: 0;
+		padding: 0px;
+		background-color: #DCDCDC;
+		}
+		.topo{
+		width: 100%;
+		height: 100px;
+		background-color: #696969;
+		}
+		.menu{
+			width: 100%;
+			background-color: #DCDCDC;
+			}
+		.conteudo{
+			width: 70%;
+			margin: o auto;
+			background-color: white;
+			}
+		.rodape{
+			width:100%; height: 150px;
+			background-color: #696969;
+		}	
