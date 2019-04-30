@@ -19,7 +19,7 @@
 
 <div class="jumbotron text-center" style="margin-bottom:0">
   <h1>Henrique Maquedano </h1>
-  <p>TA OK!77777s</p> 
+  <p>TA OK!</p> 
 </div>
 
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
