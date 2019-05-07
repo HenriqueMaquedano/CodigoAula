@@ -7,7 +7,7 @@
     <div class="col-sm-4">
       <h2>Sobre Mim</h2>
       <h5>Minha Foto:</h5>
-   <div class="fakeimg"> <img src="lobo.jpg" width="170px"height="200px"> </div>
+   <div class="fakeimg"> <img src="INTERROGAÇÃO.webp" width="170px"height="200px"> </div>
       <p>Aluno sem criatividade do 3°INFO</p>
       <h3>Alguns Links</h3>
       <p>O que Faço?</p>
@@ -30,7 +30,7 @@
     <div class="col-sm-8">
       <h2>Aula de responssividade</h2>
       <h5>Framawork Bootstrap 4.1, 16 de Abril de 2019</h5>
-      <div class="fakeimg"> <img src="cachorro.jpg" width="400px"height="200px"></div>
+      <div class="fakeimg"> <img src="Circuito.jpg" width="400px"height="200px"></div>
       <p>Descrição</p>
       <p>Construção de uma pagina com a utilização do framework do css.</p>
       <br>
