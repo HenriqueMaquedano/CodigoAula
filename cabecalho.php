@@ -1,4 +1,4 @@
-<img src="cachorro.jpg" alt="" /><!DOCTYPE html>
+	<!DOCTYPE html>
 <html lang="en">
 <head>
   <title>Minha Home Page</title>
